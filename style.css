@@ -558,7 +558,7 @@ Comment Wall
 }
 
 .comment-wall th {
-  background-color: rgb(255, 153, 51);
+  background-color: rgb(102, 53, 204);
   width: 158px;
   padding: 3px;
   vertical-align: top;
@@ -566,7 +566,7 @@ Comment Wall
 
 .comment-wall td {
   vertical-align: top;
-  background-color: rgb(249, 214, 180);
+  background-color: rgb(255, 240, 245);
   width: 269px;
   padding: 3px;
 }
